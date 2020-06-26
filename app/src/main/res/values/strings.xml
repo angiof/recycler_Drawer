@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vuelos</string>
+
+
+    <string name="opendrawler">drwer is open </string>
+
+    <string name="closedrawel">drwer is close </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nomeuser">angio</string>
+    <string name="usermai">angioko@gmail.com</string>
+
+
+
+</resources>
